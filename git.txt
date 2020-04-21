@@ -1,0 +1,8 @@
+ git config --global user.name ="mujhtabakhan12" and git config --global user.email = "mujtabakalmati@gmail.com
+"
+git init
+git status
+git add
+git commit -m”sweet little commit message”
+git pull <:remote:> <:branch:> and git push <:remote:> <:branch:>
+
